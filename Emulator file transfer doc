@@ -1,0 +1,28 @@
+By Tony July 2019
+
+
+Steps to transfer text from NC emulator to text file on Windows
+
+
+1) Start with a new clean nc100.card file (you can transfer one into the emulator directory from the zip file)
+2) Run the Emulator (from the command line)
+3) Format the card: Select Word Processor (Yellow + Red)
+4) Choose List Documents (Green)
+5) Enter Document Operations (press Home button)
+6) Choose F - Format Memory Card. Press Y to format.
+7) Back in List Documents, select a file and press Enter to open it.
+8) Press Escape to Exit. Because a memory card has now been formatted, the file will be saved to nc100.card.
+9) Exit the Emualator completely
+10) In the Emulator directory, open the nc100.card file in Notepad. The text will then be available to you in Windows.
+
+
+
+
+To get a BASIC file into a text file in BBC BASIC:-
+1) LOAD the program eg LOAD "PROGRAM"
+2) *SPOOL filename
+3) LIST
+4) SPOOL
+
+
+A file will visible when browsing in the Word Processor.
