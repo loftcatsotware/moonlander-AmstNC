@@ -1,5 +1,15 @@
- 
-  370 RETURN
+Moonlander to do October 2019
+------------------------------
+1) Check the updated collision done in august is working and saved in a master file here
+2) Improve sound effects
+3) Switch on title screen to turn sound on / off
+4) Tidy up title screen
+5) Increase difficulty: either less platforms or fuel reserves reduced
+
+
+
+
+370 RETURN
 1. Title screen
 2. Detect land or crash
 3. Make the next level harder
